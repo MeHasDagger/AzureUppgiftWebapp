@@ -1,0 +1,7 @@
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\AzureUppgift.exe
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\AzureUppgift.dll
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\AzureUppgift.deps.json
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\AzureUppgift.runtimeconfig.json
+C:\Users\Matte\Documents\Skola\Molnteknik\AzureUppgift\bin\Release\net8.0\publish\AzureUppgift.pdb
